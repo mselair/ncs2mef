@@ -37,7 +37,7 @@ setuptools.setup(
 
 
     description="Custom made Python reader for Neuralynx Cheetah NCS files.",
-    long_description="Custom made Python reader for binary NCS EEG files generated using Neuralynx Cheetah. Codes were inspired by publicly available codes available at https://neuralynx.com/software/category/matlab-netcom-utilities . Developed by the laboratory of Bioelectronics Neurophysiology and Engineering - Mayo Clinic",
+    long_description="Custom made Python reader for binary NCS EEG files generated using Neuralynx Cheetah. Codes were inspired by publicly available codes at https://neuralynx.com/software/category/matlab-netcom-utilities.",
     long_description_content_type="",
 
     packages=setuptools.find_packages(),
